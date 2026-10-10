@@ -9,7 +9,7 @@
 ### 💫 About Me
 
 - 🔭 **Currently:** Running a boosting service & building its order website
-- 🌱 **Learning:** C, C++, C#, PHP, MySQL & JavaScript — from zero, by shipping real projec
+- 🌱 **Learning:** C, C++, C#, PHP, MySQL & JavaScript — from zero, by shipping real projects
 - 💬 **Ask me about:** Joki business, streaming websites, learning to code
 
 ---
