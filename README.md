@@ -12,8 +12,6 @@
 - 🌱 **Learning:** PHP, MySQL & JavaScript — from zero, by shipping real projects
 - 💬 **Ask me about:** Joki business, streaming websites, learning to code
 
-*Lulusan SMK yang lagi belajar ngoding dari nol. Cara belajar saya: bikin project beneran, deploy langsung, perbaiki sambil jalan.*
-
 ---
 
 ### 🛠️ Tech Stack & Tools
