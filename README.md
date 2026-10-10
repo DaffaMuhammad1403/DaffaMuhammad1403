@@ -2,13 +2,13 @@
 
 ### 🚀 Relearning to Code by Building Real Projects
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97AFF&center=true&vCenter=true&width=435&lines=SMK+Graduate+%F0%9F%8E%93;Learning+to+Code+from+Scratch;Build+%2B+Ship+%F0%9F%9A%80;PHP+%E2%80%A2+MySQL+%E2%80%A2+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97AFF&center=true&vCenter=true&width=435&lines=Self-Taught+Developer+%F0%9F%92%BB;Learning+to+Code+from+Scratch;Build+%2B+Ship+%F0%9F%9A%80;PHP+%E2%80%A2+MySQL+%E2%80%A2+JavaScript)](https://git.io/typing-svg)
 
 ---
 
 ### 💫 About Me
 
-- 🔭 **Currently:** Running a GTA V boosting service & building its order website
+- 🔭 **Currently:** Running a boosting service & building its order website
 - 🌱 **Learning:** PHP, MySQL & JavaScript — from zero, by shipping real projects
 - 💬 **Ask me about:** Joki business, streaming websites, learning to code
 
