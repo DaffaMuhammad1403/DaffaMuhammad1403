@@ -16,7 +16,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,php,mysql,js,html,css,vercel,git,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,php,mysql,js,html,css,vercel,git,vscode&perline=11)](https://skillicons.dev)
 
 ---
 
